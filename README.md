@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-[![iconsite](./linkedin/linkedin-original.svg)][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 [iconsite]: https://github.com/devicons/devicon/tree/v2.14.0/icons
 [linkedin]: https://linkedin.com/in/bernard-smith-jm
