@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="BernardSm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BernardSm&show_icons=true&hide_border=false&title_color=303F9F&icon_color=009688&bg_color=212121&text_color=ffffff&border_color=BDBDBD" />
+  <img align="left" alt="BernardSm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BernardSm&show_icons=true&hide_border=false&title_color=00897b&icon_color=303F9F&bg_color=BBDEFB&text_color=000000&border_color=00897b" />
 
 </details>
 
