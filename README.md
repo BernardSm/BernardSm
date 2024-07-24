@@ -4,7 +4,7 @@
 ## I'm a Developer and aspiring CEO
 
 - 🌱 I’m currently learning mobile development
-- 🥅 2023 Goals: Contribute to an open source project and publish an app
+- 🥅 2024 Goals: Contribute to an open source project and publish an app
 - ⚡ Fun fact: I love nature and write poems in my spare time
 
 ### Languages and Tools:
